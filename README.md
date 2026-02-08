@@ -1,9 +1,11 @@
-🚗 IoT-Based Accident Detection System
-📌 Project Overview
+**🚗 IoT-Based Accident Detection System**
+
+
+**📌 Project Overview**
 
 The IoT-Based Accident Detection System is designed to automatically detect road accidents using sensor data and immediately trigger alerts. The system aims to reduce emergency response time by identifying accidents in real time and notifying concerned authorities or contacts, thereby potentially saving lives.
 
-🎯 Objectives
+**🎯 Objectives**
 
 Detect vehicle accidents automatically using sensor readings
 
@@ -13,7 +15,7 @@ Improve road safety through real-time monitoring
 
 Reduce dependency on manual accident reporting
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 Python
 
@@ -28,8 +30,8 @@ NumPy
 Pandas
 
 Matplotlib
-
-⚙️ System Workflow
+**
+⚙️ System Workflow**
 
 Sensor data (such as vibration, tilt, or acceleration) is collected.
 
@@ -39,11 +41,9 @@ If abnormal patterns exceed a predefined threshold, an accident is detected.
 
 An alert mechanism is triggered for emergency response.
 
-📂 Project Structure
-IoT_based_Accident_Detection_System.ipynb
-README.md
 
-▶️ How to Run the Project
+**
+▶️ How to Run the Project**
 
 Open Google Colab or Jupyter Notebook
 
@@ -53,7 +53,7 @@ Run all cells sequentially
 
 Observe accident detection logic and outputs
 
-✅ Features
+**✅ Features**
 
 Automatic accident detection
 
@@ -63,7 +63,7 @@ Threshold-based decision making
 
 Scalable for real IoT hardware integration
 
-🔮 Future Enhancements
+**🔮 Future Enhancements**
 
 Integration with GPS for exact accident location
 
@@ -73,7 +73,7 @@ Cloud-based real-time monitoring dashboard
 
 Machine Learning-based accident prediction
 
-👨‍💻 Author
+**👨‍💻 Author**
 
 Vikram
 B.Tech Student | AI & IoT Enthusiast
